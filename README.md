@@ -24,12 +24,14 @@ LangChain-based output parser that extracts structured insights from earnings re
 
 🛠️ Tech Stack
 
-Languages: Python, SQL
+Languages: Python, SQL, Java
 AI/ML: LangChain, RAG, PyTorch, Scikit-learn, NumPy, Pandas
+Statistical ML: Regression, Classification, Hypothesis Testing, Probability & Statistics
 LLM Infra: Groq API, HuggingFace, ChromaDB
+Systems: Operating Systems, Linux
 Tools: Streamlit, Git, VS Code
 
 
 📫 Connect with me
-[LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/abhishek-k821/)) · [Email](ak4988180@gmail.com)
+· [LinkedIn](https://www.linkedin.com/in/abhishek-k821/) · [Email](mailto:ak4988180@gmail.com)
 
